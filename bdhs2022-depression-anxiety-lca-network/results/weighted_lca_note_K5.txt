@@ -1,1 +1,0 @@
-Weighted vs unweighted LCA (K=5): ARI = 0.952; identical modal class for 98.1% of women; largest absolute difference in any class item mean = 0.039

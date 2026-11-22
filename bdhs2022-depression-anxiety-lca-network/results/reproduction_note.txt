@@ -1,7 +1,0 @@
-Original listwise sample reproduced: n = 10342 (paper reports 10,374; 32 rows with 'don't know'/'refused' were silently dropped before the LPA/network)
-Original network top node: mth4 labelled 'Fatigue' in the paper, actually 'Trouble relaxing'; value 1.9578 (paper: 1.958096) is a sum of precision-matrix entries; strength from partial correlations = 1.081
-Second node: mth2 'Sadness' -> actually 'Uncontrolled worry' (1.7130; paper 1.713212)
-Original 3-class GMM sizes by raw label 0/1/2: 23.6%, 69.2%, 7.3%
-Mean item score per raw label: 0: 0.62, 1: 0.24, 2: 1.06
-Same GMM, 10 seeds (LL, sorted class %): s0: 11538 [np.float64(7.3), np.float64(23.6), np.float64(69.2)]; s1: 11538 [np.float64(7.3), np.float64(23.6), np.float64(69.2)]; s2: 43649 [np.float64(7.4), np.float64(28.9), np.float64(63.7)]; s3: 43649 [np.float64(7.4), np.float64(28.9), np.float64(63.7)]; s4: 43649 [np.float64(7.4), np.float64(28.9), np.float64(63.7)]; s5: 43649 [np.float64(7.4), np.float64(28.9), np.float64(63.7)]; s6: 43649 [np.float64(7.4), np.float64(28.9), np.float64(63.7)]; s7: 11538 [np.float64(7.3), np.float64(23.6), np.float64(69.2)]; s8: 11538 [np.float64(7.3), np.float64(23.6), np.float64(69.2)]; s9: 43649 [np.float64(7.4), np.float64(28.9), np.float64(63.7)]
-Outcome categories after reorder (code: raw label): 0:1, 1:0, 2:2 -> reference is raw label 1 (size 69.2%), last contrast is raw label 2 (size 7.3%)
