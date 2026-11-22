@@ -1,0 +1,121 @@
+node_i,node_j,label_i,label_j,weight,boot_mean,ci_low,ci_high,prop_nonzero
+GAD-1,GAD-2,Nervous,Uncontrolled worry,0.336,0.337,0.315,0.358,1.000
+GAD-3,GAD-4,Excessive worry,Trouble relaxing,0.333,0.333,0.308,0.359,1.000
+PHQ-1,PHQ-2,Anhedonia,Sad mood,0.308,0.307,0.285,0.329,1.000
+PHQ-8,PHQ-9,Psychomotor,Suicidal ideation,0.307,0.306,0.273,0.340,1.000
+GAD-4,GAD-5,Trouble relaxing,Restlessness,0.299,0.298,0.273,0.324,1.000
+GAD-1,GAD-3,Nervous,Excessive worry,0.296,0.296,0.272,0.319,1.000
+GAD-2,GAD-4,Uncontrolled worry,Trouble relaxing,0.293,0.293,0.267,0.321,1.000
+PHQ-4,PHQ-5,Fatigue,Appetite,0.291,0.292,0.269,0.315,1.000
+PHQ-3,PHQ-4,Sleep,Fatigue,0.246,0.246,0.225,0.267,1.000
+PHQ-3,PHQ-5,Sleep,Appetite,0.244,0.244,0.221,0.268,1.000
+PHQ-7,PHQ-8,Concentration,Psychomotor,0.240,0.239,0.204,0.271,1.000
+PHQ-6,PHQ-9,Worthlessness,Suicidal ideation,0.232,0.232,0.199,0.265,1.000
+PHQ-6,PHQ-7,Worthlessness,Concentration,0.226,0.227,0.198,0.254,1.000
+GAD-5,GAD-7,Restlessness,Fear,0.182,0.182,0.156,0.210,1.000
+PHQ-2,PHQ-6,Sad mood,Worthlessness,0.166,0.163,0.137,0.189,1.000
+GAD-7,PHQ-9,Fear,Suicidal ideation,0.141,0.141,0.105,0.178,1.000
+PHQ-7,PHQ-9,Concentration,Suicidal ideation,0.141,0.141,0.103,0.176,1.000
+GAD-1,PHQ-2,Nervous,Sad mood,0.132,0.132,0.109,0.154,1.000
+GAD-5,PHQ-8,Restlessness,Psychomotor,0.132,0.129,0.095,0.160,1.000
+GAD-2,GAD-3,Uncontrolled worry,Excessive worry,0.122,0.121,0.094,0.147,1.000
+GAD-6,PHQ-1,Irritability,Anhedonia,0.122,0.122,0.099,0.144,1.000
+PHQ-1,PHQ-4,Anhedonia,Fatigue,0.119,0.119,0.095,0.142,1.000
+GAD-5,GAD-6,Restlessness,Irritability,0.114,0.114,0.092,0.137,1.000
+GAD-2,GAD-5,Uncontrolled worry,Restlessness,0.110,0.110,0.084,0.135,1.000
+GAD-1,PHQ-4,Nervous,Fatigue,0.110,0.110,0.090,0.129,1.000
+GAD-7,PHQ-1,Fear,Anhedonia,0.105,0.107,0.078,0.135,1.000
+GAD-7,PHQ-8,Fear,Psychomotor,0.100,0.103,0.070,0.137,1.000
+PHQ-5,PHQ-7,Appetite,Concentration,0.098,0.098,0.065,0.127,1.000
+PHQ-2,PHQ-4,Sad mood,Fatigue,0.091,0.091,0.068,0.115,1.000
+GAD-7,PHQ-6,Fear,Worthlessness,0.091,0.092,0.060,0.124,1.000
+PHQ-5,PHQ-8,Appetite,Psychomotor,0.088,0.087,0.056,0.118,1.000
+GAD-7,PHQ-2,Fear,Sad mood,0.081,0.079,0.051,0.108,1.000
+PHQ-2,PHQ-3,Sad mood,Sleep,0.079,0.080,0.055,0.103,1.000
+GAD-6,PHQ-9,Irritability,Suicidal ideation,0.076,0.074,0.042,0.109,1.000
+GAD-6,GAD-7,Irritability,Fear,0.075,0.073,0.045,0.103,1.000
+GAD-1,PHQ-1,Nervous,Anhedonia,0.071,0.071,0.048,0.094,1.000
+GAD-1,GAD-6,Nervous,Irritability,0.068,0.068,0.046,0.089,1.000
+PHQ-1,PHQ-7,Anhedonia,Concentration,0.066,0.066,0.037,0.094,1.000
+PHQ-3,PHQ-8,Sleep,Psychomotor,0.066,0.064,0.036,0.095,1.000
+PHQ-6,PHQ-8,Worthlessness,Psychomotor,0.066,0.066,0.032,0.098,1.000
+GAD-4,PHQ-8,Trouble relaxing,Psychomotor,0.064,0.062,0.028,0.096,1.000
+GAD-4,PHQ-9,Trouble relaxing,Suicidal ideation,0.063,0.062,0.025,0.101,1.000
+PHQ-2,PHQ-8,Sad mood,Psychomotor,0.059,0.056,0.026,0.086,1.000
+PHQ-1,PHQ-5,Anhedonia,Appetite,0.057,0.057,0.034,0.082,1.000
+GAD-4,PHQ-6,Trouble relaxing,Worthlessness,0.054,0.054,0.024,0.081,1.000
+GAD-6,PHQ-3,Irritability,Sleep,0.053,0.052,0.028,0.074,1.000
+GAD-4,PHQ-2,Trouble relaxing,Sad mood,0.049,0.047,0.022,0.073,1.000
+PHQ-3,PHQ-7,Sleep,Concentration,0.048,0.049,0.019,0.078,1.000
+GAD-6,PHQ-5,Irritability,Appetite,0.044,0.042,0.018,0.064,1.000
+GAD-3,GAD-5,Excessive worry,Restlessness,0.043,0.044,0.019,0.072,0.998
+GAD-7,PHQ-3,Fear,Sleep,0.042,0.042,0.015,0.070,0.998
+GAD-6,PHQ-4,Irritability,Fatigue,0.042,0.042,0.019,0.065,1.000
+GAD-2,GAD-7,Uncontrolled worry,Fear,0.040,0.039,0.010,0.070,0.996
+GAD-2,PHQ-9,Uncontrolled worry,Suicidal ideation,0.040,0.039,0.003,0.077,0.981
+GAD-3,PHQ-9,Excessive worry,Suicidal ideation,0.040,0.039,0.002,0.075,0.979
+GAD-3,PHQ-2,Excessive worry,Sad mood,0.039,0.037,0.013,0.062,0.998
+GAD-4,GAD-7,Trouble relaxing,Fear,0.037,0.036,0.006,0.063,0.991
+PHQ-4,PHQ-7,Fatigue,Concentration,0.037,0.036,0.007,0.063,0.994
+GAD-3,GAD-6,Excessive worry,Irritability,0.033,0.030,0.008,0.052,0.993
+GAD-5,PHQ-4,Restlessness,Fatigue,0.028,0.027,0.000,0.049,0.973
+PHQ-5,PHQ-6,Appetite,Worthlessness,0.027,0.028,0.000,0.055,0.972
+PHQ-1,PHQ-3,Anhedonia,Sleep,0.025,0.024,0.002,0.048,0.983
+GAD-6,PHQ-2,Irritability,Sad mood,0.024,0.023,0.000,0.046,0.976
+GAD-3,PHQ-6,Excessive worry,Worthlessness,0.023,0.022,0.000,0.050,0.922
+GAD-2,PHQ-3,Uncontrolled worry,Sleep,0.023,0.019,0.000,0.040,0.946
+PHQ-5,PHQ-9,Appetite,Suicidal ideation,0.021,0.021,0.000,0.059,0.840
+GAD-5,PHQ-9,Restlessness,Suicidal ideation,0.021,0.020,0.000,0.054,0.826
+GAD-2,PHQ-1,Uncontrolled worry,Anhedonia,0.018,0.017,0.000,0.041,0.914
+GAD-7,PHQ-5,Fear,Appetite,0.017,0.018,0.000,0.046,0.858
+GAD-4,PHQ-5,Trouble relaxing,Appetite,0.017,0.016,0.000,0.040,0.875
+PHQ-4,PHQ-6,Fatigue,Worthlessness,0.016,0.020,0.000,0.047,0.884
+PHQ-1,PHQ-6,Anhedonia,Worthlessness,0.014,0.014,0.000,0.042,0.811
+GAD-1,PHQ-6,Nervous,Worthlessness,0.012,0.015,0.000,0.041,0.845
+GAD-5,PHQ-2,Restlessness,Sad mood,0.012,0.014,0.000,0.039,0.815
+GAD-3,PHQ-3,Excessive worry,Sleep,0.010,0.010,0.000,0.031,0.783
+GAD-3,PHQ-4,Excessive worry,Fatigue,0.009,0.011,0.000,0.031,0.803
+GAD-5,PHQ-3,Restlessness,Sleep,0.007,0.008,0.000,0.030,0.653
+GAD-4,PHQ-3,Trouble relaxing,Sleep,0.006,0.008,0.000,0.029,0.630
+GAD-2,PHQ-5,Uncontrolled worry,Appetite,0.006,0.009,0.000,0.029,0.691
+GAD-3,PHQ-1,Excessive worry,Anhedonia,0.006,0.008,0.000,0.030,0.709
+GAD-5,PHQ-5,Restlessness,Appetite,0.006,0.008,0.000,0.032,0.627
+GAD-2,PHQ-2,Uncontrolled worry,Sad mood,0.005,0.008,0.000,0.029,0.615
+PHQ-1,PHQ-9,Anhedonia,Suicidal ideation,0.005,0.009,-0.005,0.041,0.594
+GAD-6,PHQ-6,Irritability,Worthlessness,0.004,0.006,0.000,0.029,0.552
+GAD-2,PHQ-8,Uncontrolled worry,Psychomotor,0.003,0.009,0.000,0.039,0.623
+GAD-2,GAD-6,Uncontrolled worry,Irritability,0.002,0.005,0.000,0.023,0.510
+GAD-1,GAD-5,Nervous,Restlessness,0.000,-0.003,-0.023,0.000,0.380
+GAD-2,PHQ-4,Uncontrolled worry,Fatigue,0.000,0.001,-0.006,0.012,0.213
+GAD-1,PHQ-3,Nervous,Sleep,0.000,0.002,0.000,0.016,0.335
+PHQ-2,PHQ-5,Sad mood,Appetite,0.000,0.000,-0.009,0.009,0.233
+PHQ-2,PHQ-7,Sad mood,Concentration,0.000,0.002,-0.006,0.017,0.357
+PHQ-3,PHQ-6,Sleep,Worthlessness,0.000,-0.008,-0.031,0.000,0.600
+GAD-5,PHQ-7,Restlessness,Concentration,0.000,0.005,0.000,0.027,0.499
+GAD-5,PHQ-6,Restlessness,Worthlessness,0.000,0.004,-0.003,0.024,0.410
+GAD-6,PHQ-8,Irritability,Psychomotor,0.000,-0.002,-0.023,0.012,0.386
+GAD-6,PHQ-7,Irritability,Concentration,0.000,0.004,-0.004,0.024,0.475
+GAD-2,PHQ-6,Uncontrolled worry,Worthlessness,0.000,-0.001,-0.019,0.010,0.289
+GAD-2,PHQ-7,Uncontrolled worry,Concentration,0.000,-0.006,-0.030,0.000,0.535
+GAD-4,PHQ-4,Trouble relaxing,Fatigue,0.000,-0.001,-0.013,0.006,0.208
+GAD-4,PHQ-7,Trouble relaxing,Concentration,0.000,0.003,-0.004,0.024,0.364
+GAD-3,PHQ-8,Excessive worry,Psychomotor,0.000,0.000,-0.014,0.017,0.286
+GAD-3,GAD-7,Excessive worry,Fear,0.000,0.005,-0.000,0.030,0.485
+GAD-4,GAD-6,Trouble relaxing,Irritability,0.000,0.004,0.000,0.023,0.442
+GAD-4,PHQ-1,Trouble relaxing,Anhedonia,0.000,-0.000,-0.011,0.010,0.215
+PHQ-4,PHQ-8,Fatigue,Psychomotor,0.000,0.004,-0.009,0.031,0.447
+PHQ-3,PHQ-9,Sleep,Suicidal ideation,0.000,0.007,-0.010,0.037,0.548
+PHQ-2,PHQ-9,Sad mood,Suicidal ideation,0.000,0.005,-0.010,0.033,0.475
+GAD-5,PHQ-1,Restlessness,Anhedonia,-0.001,-0.007,-0.031,0.000,0.575
+GAD-7,PHQ-7,Fear,Concentration,-0.004,-0.010,-0.036,0.000,0.651
+GAD-1,PHQ-7,Nervous,Concentration,-0.007,-0.009,-0.034,0.000,0.663
+GAD-1,PHQ-5,Nervous,Appetite,-0.008,-0.009,-0.031,0.000,0.735
+GAD-3,PHQ-7,Excessive worry,Concentration,-0.015,-0.016,-0.041,0.000,0.865
+GAD-1,GAD-7,Nervous,Fear,-0.020,-0.021,-0.052,0.000,0.913
+GAD-1,PHQ-8,Nervous,Psychomotor,-0.021,-0.022,-0.051,0.000,0.917
+PHQ-4,PHQ-9,Fatigue,Suicidal ideation,-0.022,-0.029,-0.065,0.000,0.922
+GAD-3,PHQ-5,Excessive worry,Appetite,-0.022,-0.025,-0.048,-0.002,0.984
+PHQ-1,PHQ-8,Anhedonia,Psychomotor,-0.023,-0.025,-0.057,0.000,0.911
+GAD-1,GAD-4,Nervous,Trouble relaxing,-0.036,-0.035,-0.063,-0.007,0.989
+GAD-1,PHQ-9,Nervous,Suicidal ideation,-0.037,-0.037,-0.076,0.000,0.963
+GAD-7,PHQ-4,Fear,Fatigue,-0.057,-0.058,-0.087,-0.028,1.000

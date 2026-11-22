@@ -1,0 +1,6 @@
+class,size_unweighted_model_%,size_weighted_model_%,max_abs_diff_item_mean
+C1,30.197,30.862,0.005
+C2,33.583,33.947,0.020
+C3,20.032,18.740,0.039
+C4,11.159,11.668,0.036
+C5,5.029,4.782,0.027
