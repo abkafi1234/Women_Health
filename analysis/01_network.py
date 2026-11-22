@@ -179,7 +179,8 @@ o = order[::-1]
 for k, (ax, nm) in enumerate(zip(axes, ["Strength", "Expected influence", "Bridge strength"])):
     lo = np.quantile(C_b[:, k], .025, 0)
     hi = np.quantile(C_b[:, k], .975, 0)
-    ax.errorbar(C0[k][o], range(p), xerr=[C0[k][o] - lo[o], hi[o] - C0[k][o]], fmt="o",
+    # clip at 0: with few replicates a point estimate can fall outside its percentile interval
+    ax.errorbar(C0[k][o], range(p), xerr=np.clip([C0[k][o] - lo[o], hi[o] - C0[k][o]], 0, None), fmt="o",
                 color="black", ecolor="grey", capsize=2)
     ax.set_title(nm)
     ax.grid(axis="x", ls=":")
