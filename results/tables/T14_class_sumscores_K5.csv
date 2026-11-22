@@ -1,0 +1,6 @@
+class,name,n,PHQ-9 mean (SD),GAD-7 mean (SD),% PHQ-9 >= 10,% GAD-7 >= 10
+C1,Minimal symptoms,6262,0.4 (0.7),0.6 (0.9),0.0,0.0
+C2,"Mild, somatic-predominant",6633,3.5 (1.7),2.0 (1.2),0.5,0.0
+C3,"Mild, anxiety-predominant",3857,3.4 (1.9),5.2 (1.6),0.3,1.8
+C4,"Moderate, generalised",2195,7.6 (1.9),6.5 (1.8),13.1,5.9
+C5,"High, generalised",983,12.0 (4.2),11.3 (3.8),69.4,69.2

@@ -1,0 +1,5 @@
+class,name,n,PHQ-9 mean (SD),GAD-7 mean (SD),% PHQ-9 >= 10,% GAD-7 >= 10
+C1,Minimal symptoms,5846,0.4 (0.7),0.4 (0.7),0.0,0.0
+C2,Mild symptoms,9478,3.1 (1.8),2.7 (1.6),0.4,0.1
+C3,Moderate symptoms,3580,6.4 (2.2),6.3 (1.7),7.3,4.6
+C4,High symptoms,1026,11.9 (4.3),11.3 (3.7),69.9,68.7

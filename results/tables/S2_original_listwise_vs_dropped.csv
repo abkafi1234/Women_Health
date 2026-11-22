@@ -1,0 +1,22 @@
+variable,level,% retained in original listwise sample,% dropped by original listwise deletion
+residence,urban,39.3,30.5
+residence,rural,60.7,69.5
+education,no education,8.0,19.7
+education,primary,22.7,29.6
+education,secondary,49.9,41.2
+education,higher,19.4,9.5
+wealth,poorest,12.2,24.1
+wealth,poorer,17.1,22.2
+wealth,middle,19.2,20.8
+wealth,richer,23.3,18.1
+wealth,richest,28.2,14.8
+owns_mobile,no,0.0,63.3
+owns_mobile,yes,100.0,36.7
+husband_edu,no education,16.5,23.9
+husband_edu,primary,25.4,27.7
+husband_edu,secondary,34.7,26.0
+husband_edu,higher,23.2,11.8
+husband_edu,no current partner,0.0,10.4
+PHQ-9 sum (mean),,3.2,3.6
+GAD-7 sum (mean),,3.0,3.3
+n,,10342.0,9588.0

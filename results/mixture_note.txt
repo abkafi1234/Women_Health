@@ -1,0 +1,1 @@
+Gaussian LPA K=4 with sklearn default reg_covar=1e-6: LL=174001.5, min class variance=1.00e-06 (unbounded likelihood)

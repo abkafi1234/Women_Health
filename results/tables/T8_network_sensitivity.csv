@@ -1,0 +1,6 @@
+model,n_edges,r_edges,r_strength,top3_strength
+"Main: polychoric, gamma=0.5",99,1.000,1.000,"Trouble relaxing, Psychomotor, Nervous"
+"Spearman, gamma=0.5",107,0.981,0.738,"Trouble relaxing, Sad mood, Uncontrolled worry"
+"Pearson, gamma=0.5",109,0.983,0.662,"Trouble relaxing, Sad mood, Uncontrolled worry"
+"Polychoric, gamma=0.25",99,1.000,1.000,"Trouble relaxing, Psychomotor, Nervous"
+"Polychoric, gamma=0",99,1.000,1.000,"Trouble relaxing, Psychomotor, Nervous"

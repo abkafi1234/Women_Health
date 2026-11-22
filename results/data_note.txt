@@ -1,0 +1,3 @@
+Source: full BDHS 2022 IR file BDIR81FL.DTA (weights v005, PSU v021, strata v023 available)
+Survey design variables present: True
+Analytic N = 19930; original listwise sample within it = 10342
